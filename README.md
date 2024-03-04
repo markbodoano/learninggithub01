@@ -1,2 +1,2 @@
 # learninggithub01
-Learnin Githun
+Learnin Github
